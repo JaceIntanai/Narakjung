@@ -1,2 +1,2 @@
 # Narakjung
-![Alt Text]()
+![Alt Text](ther.gif)
